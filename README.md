@@ -1,7 +1,8 @@
 # ROBOTICS INNOVATION
 
 ## About
-  A portfolio website for a group of robotics and AI engineers in Africa showcasing their projects, their skills, address and socials with a means of getting in touch with them via email.
+  A portfolio website made with HTML, CSS and sass for styling and animations and javascript for functionality.
+  It's a website for a group of robotics and AI engineers in Africa showcasing their projects, their skills, address and socials with a means of getting in touch with them via email.
 
 ## This repository contains: 
 * A README.md file. 
